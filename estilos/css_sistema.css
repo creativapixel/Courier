@@ -1,0 +1,144 @@
+body,html {
+			width:100%;
+			height:100%;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:11px;
+			padding: 0px;
+			margin: 0px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			color:#663300;
+			background-image:url(../imagenes/lin_fondo.jpg);
+			
+			/*estilo de barras de desplazamiento*/
+			scrollbar-face-color: #CE6700; 
+			
+			scrollbar-shadow-color: #FAA872; 
+			scrollbar-highlight-color: #FAA872; 
+			scrollbar-3dlight-color: #FAA872; 
+			scrollbar-darkshadow-color: #FAA872; 
+			scrollbar-arrow-color: #FFDBB7;	
+					
+			scrollbar-track-color:#FFDBB7;
+		
+			
+			
+ 
+}
+
+.subtitulos{
+	color:#795200;
+	font-size:12px;
+	font-weight: bold;
+
+
+}
+
+a:link {
+	text-decoration: none;
+
+	
+}
+a:active {
+	text-decoration:none;
+		
+}
+a:visited {
+	text-decoration: none;
+		
+}
+a:hover {
+		text-decoration: underline;
+		
+}
+
+
+
+#botonesmenu{
+		background-image:url(../archivos/boton.jpg);
+		height:25px;
+		text-align:center;
+		font-weight:bold;
+}
+
+.color_celda{
+		background-color:#FFDBB7;
+		font-weight:bold;
+}
+
+.vinculoblanco{
+		color: #FFFFFF
+}
+.fondonegro{
+		background-image:url(../imagenes/fondo_barragrid.jpg);
+		color:#FFFFFF;
+}
+
+input{ 
+	font-family:Arial, Helvetica, sans-serif;
+	border:1px solid  #993300;
+}
+textarea{
+overflow:auto;
+border: 1px  solid #993300;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+
+}
+select { 
+font-family: Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#003333;
+background-color:#FFFFCC;
+/*background-color: #666666;*/
+
+border:1px solid #993300;
+border-bottom-color:#333333;
+border-color:#333333;
+
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px
+}
+h3{
+color:#663300;
+font-size:20px;
+
+}
+
+.textoblanco{
+color:#FFFFFF;
+}
+
+.enfasis{
+
+	font-weight: bold;
+}
+.anchoframe{
+width:100%;
+}
+
+input.btn{
+   color:#996600;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:11px;
+   font-weight:bold;
+
+   background-color:#fed;
+
+   filter:progid:DXImageTransform.Microsoft.Gradient
+      (GradientType=0,StartColorStr='#ffffffff',EndColorStr='#ffeeddaa');
+}
+
+input.btn{
+   color:#996600;
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:11px;
+   font-weight:bold;
+
+   background-color:#fed;
+
+   filter:progid:DXImageTransform.Microsoft.Gradient
+      (GradientType=0,StartColorStr='#ffffffff',EndColorStr='#ffeeddaa');
+}
